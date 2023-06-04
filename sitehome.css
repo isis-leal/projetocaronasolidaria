@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*header*/
+.header-menu .navbar{
+    background-color: #6959cd;
+}
+.header-menu {
+    background-color:#6959cd;
+    height: 100vh;
+}
+
+.header-menu a{
+    color: #fff;
+
+}
+
+.header-menu .dropdown-item{
+    color: #6959cd
+
+}
+
+.header-menu .dropdown-item:hover{
+    color: #ee82ee
+
+}
+
+.navbar{
+    background-color: #6959cd;
+}
+
+.navbar  .navbar-brand:hover {
+color: #6959cd;
+
+}
+
+.navbar-nav .navlink{
+    color:#6959cd;
+    border-bottom: 2px solid #6959cd ;
+    transition: 0.5s;
+    }
+
+    .navbar-nav .navlink:hover{
+        color: #6959cd ;
+        border-bottom: 2px solid #ee82ee;
+
+    }
+
+.navbar-nav .nav-item {
+padding-right: 1.5em;
+
+}
+
+
+
+/*seccion home*/
+
+.home img{
+    width: 550px;
+    height: 550px;
+
+}
+
+/*footer*/
+.footer{
+   background-color:#6959cd ; 
+}
+
